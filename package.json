@@ -1,0 +1,23 @@
+{
+  "name": "full-page-scroll",
+  "version": "1.0.0",
+  "description": "An automated full-page scrolling when scroll over the middle of page height.",
+  "main": "smoothscroll.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesyang124/SmoothPageScroll.git"
+  },
+  "author": "James Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesyang124/SmoothPageScroll/issues"
+  },
+  "homepage": "https://github.com/jamesyang124/SmoothPageScroll#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
